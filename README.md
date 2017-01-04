@@ -1,6 +1,6 @@
 About This Repository
 =====================
-This is a notebook of algorithms compiled throughout my Scientific Computing class at the University of Oklahoma.
+This is a collection of algorithms compiled throughout my Scientific Computing class at the University of Oklahoma.
 
 The algorithms are written in MATLAB and can be loaded in MATLAB and used.
 
