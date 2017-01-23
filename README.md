@@ -4,7 +4,7 @@ This is a collection of algorithms compiled throughout my Scientific Computing c
 
 The algorithms are written in MATLAB and can be loaded in MATLAB and used.
 
-Algorithm Descriptsion
+Algorithm Description
 ----------------------
 Rather than trying to explain each algorithm, I will just link relavent literature that explains them better than I could.
 
