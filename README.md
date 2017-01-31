@@ -30,16 +30,16 @@ https://en.wikipedia.org/wiki/Gauss%E2%80%93Seidel_method
 * SOR, Successive Over Relaxation, Method (sor.m)<br>
 https://en.wikipedia.org/wiki/Successive_over-relaxation
 
-##### Solving Triangular Systems
-* Upper Triangular System (upper_tri.m)<br>
-Simple algorithm to solve an upper triangular system
-
-* Lower Triangular System (lower_tri.m)<br>
-Simple algorithm to solve a lower triangular system
-
 ##### Gradient Methods
 * Gradient Descent Method, Steepest Descent (gradient_sd.m)<br>
 https://en.wikipedia.org/wiki/Gradient_descent
 
 * Conjugate Gradient Method (conj_gradient.m)<br>
 https://en.wikipedia.org/wiki/Conjugate_gradient_method
+
+##### Solving Triangular Systems
+* Upper Triangular System (upper_tri.m)<br>
+Simple algorithm to solve an upper triangular system
+
+* Lower Triangular System (lower_tri.m)<br>
+Simple algorithm to solve a lower triangular system
